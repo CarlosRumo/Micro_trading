@@ -123,7 +123,7 @@ celerybeat.pid
 .env
 .venv
 env/
-venv/
+Tareas/Lab1/myst-707135-lab1/venv/
 ENV/
 env.bak/
 venv.bak/
